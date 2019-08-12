@@ -1,0 +1,42 @@
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\Mak\angular-login\jwt-api-dotnetCore\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\Mak\angular-login\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\Mak\angular-login\2. Role Based Authentication\jwt-api-dotnetCore (Role Based Authorization)\obj\Debug\netcoreapp2.2\WebApi.pdb
